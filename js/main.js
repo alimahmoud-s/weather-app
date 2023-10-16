@@ -27,7 +27,7 @@ const weekday = [
 // var httpReq = new XMLHttpRequest();
 // httpReq.open(
 //   "get",
-//   `http://api.weatherapi.com/v1/forecast.json?key=58f79f9cc1394227b6c40643220506&q=cairo&days=3`,
+//   `https://api.weatherapi.com/v1/forecast.json?key=7d77b96c972b4d119a3151101212704&q=${a}&days=3`,
 //   "true"
 // );
 // var data = [];
